@@ -1,3 +1,7 @@
 test file
 
+<<<<<<< HEAD
+// Making an edit to the test file!
+=======
 BOOYAH BROSEPH
+>>>>>>> test
